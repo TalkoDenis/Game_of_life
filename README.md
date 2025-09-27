@@ -12,6 +12,7 @@ Cells evolve according to configurable rules over generations.
 └── scr
 └── gol.rb 
 
+```
 
 ## Usage
 
