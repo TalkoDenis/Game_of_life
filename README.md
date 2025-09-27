@@ -5,6 +5,7 @@ Cells evolve according to configurable rules over generations.
 
 ## Project Structure
 
+```
 .
 ├── Gemfile
 ├── main.rb 
