@@ -21,5 +21,6 @@ Cells evolve according to configurable rules over generations.
 
 ```bash
 ruby main.rb
-Watch the simulation evolve in the console.
+```
 
+Watch the simulation evolve in the console.
